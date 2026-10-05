@@ -1,0 +1,121 @@
+/* 
+
+h1 {
+  margin-bottom: 30px;
+}
+
+.user-list {
+  display: flex;
+  justify-content: center;
+  gap:10px;
+  margin-bottom: 40px;
+  flex-wrap: wrap;
+
+
+}
+
+.user-card{
+    border: 1px solid black;
+    padding:10px;
+    box-shadow: 0px 0px 2px  black;
+   width: 340px;
+   border-radius: 10px;
+}
+
+img{
+  width:340px;
+  height: 300px;
+}
+
+span{
+  color:blue;
+}
+
+.hi{
+color:blue;
+} */
+ /* body{
+  background-color: black;
+ }
+nav{
+  background-color: aqua;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+nav ol {
+  display: flex;
+  gap: 40px;
+}
+nav li{
+  list-style: none;
+  font-weight: bolder;
+}
+nav ol li a {
+  text-decoration: none;
+}
+nav button{
+  width: 100px;
+  height: 40px;
+  background-color: black;
+  color: aliceblue;
+  font-weight: 500;
+  border-radius: 10px;
+}
+
+section {
+  display: flex;
+  gap:10px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 4rem;
+
+}
+
+img{
+  width: 300px;
+  height: 300px;
+}
+.data-user{
+  box-shadow: 0px 0px 20px yellow;
+  padding: 10px;
+  color: white;
+  font-size: 20px;
+  transition: 1.3s;
+  transform: rotate(10deg);
+}
+.data-user:hover{
+  background-color: red;
+  color: black;
+}
+.heading{
+  text-align: center;
+  color: yellow;
+}
+
+.heading-two{
+  color: yellow;
+  display: block;
+  text-align: center;
+}
+.section-two{
+  display: flex;
+  border: 1px solid red;
+}
+
+.boys-data{
+  color: white;
+}
+.heading-three{
+  color: yellow;
+}
+.hi{
+  color: aliceblue;
+
+}
+.bye{
+  color: aliceblue;
+}
+h4{
+  color: white;
+} */
